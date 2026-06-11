@@ -41,7 +41,7 @@
 ### 🌿 Plant AI Disease Detection System
 
 AI-powered application that identifies plant diseases and provides recommendations for treatment and prevention.
-
+https://github.com/saniapaul441-hub/plant_ai_assistant
 ### 🤖 Personalized GPT
 
 A customized GPT assistant designed to provide personalized support and intelligent interactions.
