@@ -49,7 +49,7 @@ A customized GPT assistant designed to provide personalized support and intellig
 ### 👨‍💼 AI Recruiter
 
 An AI-powered recruitment assistant for candidate evaluation and screening.
-
+https://github.com/saniapaul441-hub/AI-recruiter
 ---
 
 ## 🎯 Current Focus
